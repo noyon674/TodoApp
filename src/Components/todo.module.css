@@ -1,0 +1,19 @@
+.background{
+    background-color: #222;
+    color: aliceblue;
+    padding: .5rem;
+    margin: .7rem;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.background:hover{
+    background-color: #111;
+}
+.btn{
+    color: red;
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+}

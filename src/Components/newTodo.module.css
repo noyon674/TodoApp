@@ -1,0 +1,39 @@
+.background{
+    background-color: #222;
+    width: 500px;
+    margin: auto;
+    padding: 1rem;
+}
+
+.background label{
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+}
+
+.background input{
+    margin-left: 100px;
+    width: 300px;
+}
+.background textarea{
+    margin-left: 52px;
+    width: 300px;
+    margin-top: 10px;
+    resize: none;
+    height: 50px;
+}
+
+.btn{
+    background-color:wheat;
+    color: orange;
+    border: none;
+    width: 200px;
+    margin-left: 195px;
+    margin-top: 5px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn:hover{
+    background-color: orange;
+    color: white;
+}
