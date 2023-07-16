@@ -3,7 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Live link:
-https://lighthearted-longma-b57bcc.netlify.app/## Available Scripts   
+https://lighthearted-longma-b57bcc.netlify.app/
+
+
+## Available Scripts   
 
 
 In the project directory, you can run:
